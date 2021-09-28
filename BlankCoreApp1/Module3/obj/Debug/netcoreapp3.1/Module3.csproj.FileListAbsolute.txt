@@ -1,0 +1,14 @@
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\bin\Debug\netcoreapp3.1\Module3.deps.json
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\bin\Debug\netcoreapp3.1\Module3.dll
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\bin\Debug\netcoreapp3.1\Module3.pdb
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Module3.csproj.AssemblyReference.cache
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Views\ViewA.g.cs
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Module3_MarkupCompile.cache
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Module3_MarkupCompile.lref
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Views\ViewA.baml
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Module3.g.resources
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Module3.AssemblyInfoInputs.cache
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Module3.AssemblyInfo.cs
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Module3.csproj.CoreCompileInputs.cache
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Module3.dll
+E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module3\obj\Debug\netcoreapp3.1\Module3.pdb

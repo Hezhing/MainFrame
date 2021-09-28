@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>BlankCoreApp1</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Prism.DryIoc" Version="8.0.0.1909" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Module1\Module1.csproj" />
+    <ProjectReference Include="..\Module2\Module2.csproj" />
+    <ProjectReference Include="..\Module3\Module3.csproj" />
+    <ProjectReference Include="..\Module4\Module4.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Module1">
+      <HintPath>..\Module1\bin\Debug\netcoreapp3.1\Module1.dll</HintPath>
+    </Reference>
+    <Reference Include="Module2">
+      <HintPath>..\Module2\bin\Debug\netcoreapp3.1\Module2.dll</HintPath>
+    </Reference>
+    <Reference Include="Module3">
+      <HintPath>..\Module3\bin\Debug\netcoreapp3.1\Module3.dll</HintPath>
+    </Reference>
+    <Reference Include="Module4">
+      <HintPath>..\Module4\bin\Debug\netcoreapp3.1\Module4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
