@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="MenuMoudle.Views.ViewA"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MenuMoudle.Views"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True" >
+    <Grid>
+        <Menu>
+            <MenuItem Header="文件">
+                <MenuItem Header="新建">
+                    <MenuItem.Icon>
+                        <Image Source="/MenuMoudle;component/Resources/Context/Properties.bmp" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="打开"></MenuItem>
+                <MenuItem Header="保存"></MenuItem>
+                <MenuItem Header="关闭场景"></MenuItem>
+                <MenuItem Header="退出"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="添加">
+                <MenuItem Header="卫星"></MenuItem>
+                <MenuItem Header="传感器"></MenuItem>
+                <MenuItem Header="地面站"></MenuItem>
+                <MenuItem Header="覆盖定义"></MenuItem>
+                <MenuItem Header="FOM设计"></MenuItem>
+                <MenuItem Header="船只"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="窗口">
+            </MenuItem>
+            <MenuItem Header="显示">
+            </MenuItem>
+            <MenuItem Header="视角">
+            </MenuItem>
+            <MenuItem Header="插入">
+            </MenuItem>
+            <MenuItem Header="样式">
+            </MenuItem>
+        </Menu>
+    </Grid>
+</UserControl>

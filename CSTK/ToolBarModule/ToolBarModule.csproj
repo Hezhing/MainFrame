@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>ToolBarModule</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Resources\TimeControl\backplay_32.png" />
+    <None Remove="Resources\TimeControl\backplay_64.png" />
+    <None Remove="Resources\TimeControl\backward_32.png" />
+    <None Remove="Resources\TimeControl\backward_64.png" />
+    <None Remove="Resources\TimeControl\fast_32.png" />
+    <None Remove="Resources\TimeControl\fast_64.png" />
+    <None Remove="Resources\TimeControl\next_64.png" />
+    <None Remove="Resources\TimeControl\pause_32.png" />
+    <None Remove="Resources\TimeControl\pause_64.png" />
+    <None Remove="Resources\TimeControl\play_32.png" />
+    <None Remove="Resources\TimeControl\play_64.png" />
+    <None Remove="Resources\TimeControl\previous_32.png" />
+    <None Remove="Resources\TimeControl\previous_64.png" />
+    <None Remove="Resources\TimeControl\stop_32.png" />
+    <None Remove="Resources\TimeControl\stop_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\TimeControl\backplay_32.png" />
+    <Resource Include="Resources\TimeControl\backplay_64.png" />
+    <Resource Include="Resources\TimeControl\backward_32.png" />
+    <Resource Include="Resources\TimeControl\backward_64.png" />
+    <Resource Include="Resources\TimeControl\fast_32.png" />
+    <Resource Include="Resources\TimeControl\fast_64.png" />
+    <Resource Include="Resources\TimeControl\next_64.png" />
+    <Resource Include="Resources\TimeControl\pause_32.png" />
+    <Resource Include="Resources\TimeControl\pause_64.png" />
+    <Resource Include="Resources\TimeControl\play_32.png" />
+    <Resource Include="Resources\TimeControl\play_64.png" />
+    <Resource Include="Resources\TimeControl\previous_32.png" />
+    <Resource Include="Resources\TimeControl\previous_64.png" />
+    <Resource Include="Resources\TimeControl\stop_32.png" />
+    <Resource Include="Resources\TimeControl\stop_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Prism.Wpf" Version="8.0.0.1909" />
+  </ItemGroup>
+</Project>

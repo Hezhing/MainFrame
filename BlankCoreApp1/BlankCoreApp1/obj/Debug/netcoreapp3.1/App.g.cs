@@ -53,7 +53,7 @@ namespace BlankCoreApp1 {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.9.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.4.0")]
         public static void Main() {
             BlankCoreApp1.App app = new BlankCoreApp1.App();
             app.Run();

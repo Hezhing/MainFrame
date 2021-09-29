@@ -26,3 +26,17 @@ E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Modu
 E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.CoreCompileInputs.cache
 E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.dll
 E:\Data\Lab\Prism\9.17\项目\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.pdb
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\bin\Debug\netcoreapp3.1\Module1.deps.json
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\bin\Debug\netcoreapp3.1\Module1.dll
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\bin\Debug\netcoreapp3.1\Module1.pdb
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.csprojAssemblyReference.cache
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Views\ViewA.g.cs
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1_MarkupCompile.cache
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1_MarkupCompile.lref
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Views\ViewA.baml
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.g.resources
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.AssemblyInfoInputs.cache
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.AssemblyInfo.cs
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.csproj.CoreCompileInputs.cache
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.dll
+E:\研究生学习\助研\RenameCSTK\MainFrame\BlankCoreApp1\Module1\obj\Debug\netcoreapp3.1\Module1.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPCM9eV9fvU94/gSi/1FhPMwCsC/Zq1u+1AF6YMhTyFQJfMbrL9u3MzsCZ07m3ziXO+YgtxVn6K6b0j8mmTWGQ==",
+  "success": true,
+  "projectFilePath": "E:\\研究生学习\\助研\\CSTK\\TreeViewModule\\TreeViewModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hezhing\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Hezhing\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Hezhing\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+E:\研究生学习\助研\CSTK\WindowsModule\bin\Debug\netcoreapp3.1\WindowsModule.deps.json
+E:\研究生学习\助研\CSTK\WindowsModule\bin\Debug\netcoreapp3.1\WindowsModule.dll
+E:\研究生学习\助研\CSTK\WindowsModule\bin\Debug\netcoreapp3.1\WindowsModule.pdb
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\WindowsModule.csprojAssemblyReference.cache
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\Views\ViewA.g.cs
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\WindowsModule_MarkupCompile.cache
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\WindowsModule_MarkupCompile.lref
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\Views\ViewA.baml
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\WindowsModule.g.resources
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\WindowsModule.AssemblyInfoInputs.cache
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\WindowsModule.AssemblyInfo.cs
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\WindowsModule.csproj.CoreCompileInputs.cache
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\WindowsModule.dll
+E:\研究生学习\助研\CSTK\WindowsModule\obj\Debug\netcoreapp3.1\WindowsModule.pdb

@@ -1,0 +1,14 @@
+E:\研究生学习\助研\CSTK\TreeViewModule\bin\Debug\netcoreapp3.1\TreeViewModule.deps.json
+E:\研究生学习\助研\CSTK\TreeViewModule\bin\Debug\netcoreapp3.1\TreeViewModule.dll
+E:\研究生学习\助研\CSTK\TreeViewModule\bin\Debug\netcoreapp3.1\TreeViewModule.pdb
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\TreeViewModule.csprojAssemblyReference.cache
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\Views\ViewA.g.cs
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\TreeViewModule_MarkupCompile.cache
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\TreeViewModule_MarkupCompile.lref
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\Views\ViewA.baml
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\TreeViewModule.g.resources
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\TreeViewModule.AssemblyInfoInputs.cache
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\TreeViewModule.AssemblyInfo.cs
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\TreeViewModule.csproj.CoreCompileInputs.cache
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\TreeViewModule.dll
+E:\研究生学习\助研\CSTK\TreeViewModule\obj\Debug\netcoreapp3.1\TreeViewModule.pdb

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RUgmQeyS/Qj0WzQz2EgBATHTaqXX003YO+s122XkZMGQUF3rGwnIcFDwgNQ9xCsW/FseaS6V0fHNQ7EvXdLYSA==",
+  "dgSpecHash": "MyyHJqHLN2QhqJVnl7/1K3ThS0hfAbJeTLRqMGLCrPN+QpQ7YNv0Wup2/ME1Yy8oevYlFjAhFhviHzGp0mdaNw==",
   "success": true,
-  "projectFilePath": "E:\\Data\\Lab\\Prism\\9.17\\董琳\\BlankCoreApp1\\Module3\\Module3.csproj",
+  "projectFilePath": "E:\\研究生学习\\助研\\RenameCSTK\\MainFrame\\BlankCoreApp1\\Module3\\Module3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dell\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
-    "C:\\Users\\dell\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
-    "C:\\Users\\dell\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
+    "C:\\Users\\Hezhing\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Hezhing\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Hezhing\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
   ],
   "logs": []
 }

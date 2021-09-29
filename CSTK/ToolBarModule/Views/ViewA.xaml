@@ -1,0 +1,98 @@
+﻿<UserControl x:Class="ToolBarModule.Views.ViewA"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ToolBarModule.Views"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4.7*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="4*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <DockPanel Grid.Column="0">
+            <!--绝对路径-->
+            <!--<ToolBar DockPanel.Dock ="Top">
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="E:\研究生学习\助研\CSTK\ToolBarModule\Resources\TimeControl\previous_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="E:\研究生学习\助研\CSTK\ToolBarModule\Resources\TimeControl\backplay_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="E:\研究生学习\助研\CSTK\ToolBarModule\Resources\TimeControl\backward_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="E:\研究生学习\助研\CSTK\ToolBarModule\Resources\TimeControl\stop_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="E:\研究生学习\助研\CSTK\ToolBarModule\Resources\TimeControl\play_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="E:\研究生学习\助研\CSTK\ToolBarModule\Resources\TimeControl\fast_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="E:\研究生学习\助研\CSTK\ToolBarModule\Resources\TimeControl\next_64.png" />
+                    </Button.Content>
+                </Button>
+            </ToolBar>-->
+            <!--相对路径-->
+            <ToolBar DockPanel.Dock ="Top">
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="/ToolBarModule;component/Resources/TimeControl/previous_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="/ToolBarModule;component/Resources/TimeControl/backplay_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="/ToolBarModule;component/Resources/TimeControl/backward_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="/ToolBarModule;component/Resources/TimeControl/stop_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="/ToolBarModule;component/Resources/TimeControl/play_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="/ToolBarModule;component/Resources/TimeControl/fast_64.png" />
+                    </Button.Content>
+                </Button>
+                <Button Height="40" Width="40">
+                    <Button.Content>
+                        <Image Source="/ToolBarModule;component/Resources/TimeControl/next_64.png" />
+                    </Button.Content>
+                </Button>
+            </ToolBar>
+        </DockPanel>
+        <TextBox Grid.Column="1" MinWidth="130"  VerticalAlignment="Center" Name="timeText">2021-01-01 00:00:00</TextBox>
+        <Slider  Grid.Column="2" VerticalAlignment="Center"  Margin="5,0,5,0" Name="timeSlider" HorizontalAlignment="Stretch" ></Slider>
+    </Grid>
+</UserControl>

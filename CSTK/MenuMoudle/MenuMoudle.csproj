@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>MenuMoudle</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Resources\Context\Copy.bmp" />
+    <None Remove="Resources\Context\Cut.bmp" />
+    <None Remove="Resources\Context\Delete.bmp" />
+    <None Remove="Resources\Context\Paste.bmp" />
+    <None Remove="Resources\Context\Properties.bmp" />
+    <None Remove="Resources\Context\Report.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Prism.Wpf" Version="8.0.0.1909" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Context\Copy.bmp" />
+    <Resource Include="Resources\Context\Cut.bmp" />
+    <Resource Include="Resources\Context\Delete.bmp" />
+    <Resource Include="Resources\Context\Paste.bmp" />
+    <Resource Include="Resources\Context\Properties.bmp" />
+    <Resource Include="Resources\Context\Report.bmp" />
+  </ItemGroup>
+</Project>

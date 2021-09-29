@@ -1,0 +1,13 @@
+E:\研究生学习\助研\CSTK\MenuMoudle\bin\Debug\netcoreapp3.1\MenuMoudle.deps.json
+E:\研究生学习\助研\CSTK\MenuMoudle\bin\Debug\netcoreapp3.1\MenuMoudle.dll
+E:\研究生学习\助研\CSTK\MenuMoudle\bin\Debug\netcoreapp3.1\MenuMoudle.pdb
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\Views\ViewA.g.cs
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\MenuMoudle_MarkupCompile.cache
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\MenuMoudle_MarkupCompile.lref
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\Views\ViewA.baml
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\MenuMoudle.g.resources
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\MenuMoudle.AssemblyInfoInputs.cache
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\MenuMoudle.AssemblyInfo.cs
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\MenuMoudle.csproj.CoreCompileInputs.cache
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\MenuMoudle.dll
+E:\研究生学习\助研\CSTK\MenuMoudle\obj\Debug\netcoreapp3.1\MenuMoudle.pdb

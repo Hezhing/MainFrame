@@ -1,0 +1,19 @@
+﻿<Window x:Class="CSTK.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        Title="CSTK卫星可视化" Height="765" Width="1360" >
+    <StackPanel>
+        <ContentControl prism:RegionManager.RegionName="MenuContentRegion" />
+        <ContentControl prism:RegionManager.RegionName="ToolBarContentRegion" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ContentControl Grid.Column="0" prism:RegionManager.RegionName="TreeViewContentRegion" />
+            <ContentControl Grid.Column="1"  prism:RegionManager.RegionName="WindowsContentRegion" />
+        </Grid>
+    </StackPanel>
+</Window>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0GwkvRvekVvoMD6HL58iprBj7MIHiiLVH9O0/BBjvZgyydL+G3loM3v+ypPNqvK/tuwhqZc954fZMYIEsSorA==",
+  "success": true,
+  "projectFilePath": "E:\\研究生学习\\助研\\CSTK\\WindowsModule\\WindowsModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hezhing\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Hezhing\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Hezhing\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
+  ],
+  "logs": []
+}

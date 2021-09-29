@@ -1,0 +1,14 @@
+E:\研究生学习\助研\CSTK\ToolBarModule\bin\Debug\netcoreapp3.1\ToolBarModule.deps.json
+E:\研究生学习\助研\CSTK\ToolBarModule\bin\Debug\netcoreapp3.1\ToolBarModule.dll
+E:\研究生学习\助研\CSTK\ToolBarModule\bin\Debug\netcoreapp3.1\ToolBarModule.pdb
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\ToolBarModule.csprojAssemblyReference.cache
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\Views\ViewA.g.cs
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\ToolBarModule_MarkupCompile.cache
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\ToolBarModule_MarkupCompile.lref
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\Views\ViewA.baml
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\ToolBarModule.g.resources
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\ToolBarModule.AssemblyInfoInputs.cache
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\ToolBarModule.AssemblyInfo.cs
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\ToolBarModule.csproj.CoreCompileInputs.cache
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\ToolBarModule.dll
+E:\研究生学习\助研\CSTK\ToolBarModule\obj\Debug\netcoreapp3.1\ToolBarModule.pdb

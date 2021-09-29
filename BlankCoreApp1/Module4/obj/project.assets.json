@@ -117,19 +117,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dell\\.nuget\\packages\\": {}
+    "C:\\Users\\Hezhing\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Data\\Lab\\Prism\\9.17\\董琳\\BlankCoreApp1\\Module4\\Module4.csproj",
+      "projectUniqueName": "E:\\研究生学习\\助研\\RenameCSTK\\MainFrame\\BlankCoreApp1\\Module4\\Module4.csproj",
       "projectName": "Module4",
-      "projectPath": "E:\\Data\\Lab\\Prism\\9.17\\董琳\\BlankCoreApp1\\Module4\\Module4.csproj",
-      "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Data\\Lab\\Prism\\9.17\\董琳\\BlankCoreApp1\\Module4\\obj\\",
+      "projectPath": "E:\\研究生学习\\助研\\RenameCSTK\\MainFrame\\BlankCoreApp1\\Module4\\Module4.csproj",
+      "packagesPath": "C:\\Users\\Hezhing\\.nuget\\packages\\",
+      "outputPath": "E:\\研究生学习\\助研\\RenameCSTK\\MainFrame\\BlankCoreApp1\\Module4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hezhing\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -178,7 +178,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
